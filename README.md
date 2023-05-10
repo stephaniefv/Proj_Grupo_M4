@@ -1,6 +1,6 @@
-# PROJETO EM GRUPO Dados para abastecer o carro
+##PROJETO EM GRUPO Dados para abastecer o carro##
 
- CONTEXTO 💻
+ ##CONTEXTO✏## 
 **Você e a sua equipe foram escalados pela Agência Nacional de Petróleo e Gás Natural e
 Biocombustíveis (ANP) para realizar uma análise exploratória relacionada à série
 histórica de preço de venda da gasolina e do etanol. ANP é um centro de referência
