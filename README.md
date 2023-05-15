@@ -1,6 +1,15 @@
 ## PROJETO EM GRUPO ##
 ## Dados para abastecer o carro ##
-
+**Integrantes:** <br>
+Daniel Marques; <br>
+Matheus Augusto; <br>
+Robson da Silva; <br>
+Stephanie Ferreira. <br><br>
+**E-mail para contato:** <br>
+emaildaniel; <br>
+mataugusto1999@gmail.com; <br>
+emailrobson; <br>
+stephanievale94@gmail.com. <br>
 
 ## :pencil2: Contexto ##
 
