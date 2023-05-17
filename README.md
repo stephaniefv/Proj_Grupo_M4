@@ -6,7 +6,7 @@ Matheus Augusto; <br>
 Robson da Silva; <br>
 Stephanie Ferreira. <br><br>
 **E-mail para contato:** <br>
-emaildaniel; <br>
+marquesspeed99@gmail.com; <br>
 mataugusto1999@gmail.com; <br>
 emailrobson; <br>
 stephanievale94@gmail.com. <br>
