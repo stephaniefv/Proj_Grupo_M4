@@ -8,7 +8,7 @@ Stephanie Ferreira. <br><br>
 **E-mail para contato:** <br>
 marquesspeed99@gmail.com; <br>
 mataugusto1999@gmail.com; <br>
-emailrobson; <br>
+robson.pecanha@aluno.senac.rio; <br>
 stephanievale94@gmail.com. <br>
 
 ## :pencil2: Contexto ##
