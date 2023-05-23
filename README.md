@@ -95,6 +95,6 @@ vende ele? <br>
 2. Exibir as Top 5 Revendas de combustíveis com o menor valor no Estado do Rio de Janeiro? <br>
 <br>
 
-**Nos slides e no jupyter notebook, colocamos de forma ordenada as questões e suas respectivas respostas.**
+**Nos slides e no  arquivo Jupyter Notebook, colocamos de forma ordenada as questões e suas respectivas respostas.**
 <br><br>
 ### **Obrigado!**
